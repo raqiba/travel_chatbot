@@ -1,0 +1,10 @@
+langchain
+faiss-cpu
+openai
+pydantic
+tiktoken
+chromadb
+unstructured
+sentence-transformers
+langchain-google-genai
+python-dotenv
